@@ -1,4 +1,4 @@
-#UNO (online multiplayer)
+# UNO(online multiplayer)
 > Disclaimer: This repository is only for educational purpose. Anyone who abuses the information provided here 
 does so on his own behalf. I am in no way responsible for it.
 
